@@ -7,7 +7,7 @@
 <h2> Cursos Em Andamento </h2>
 
 * CS50's Introduction to Computer Science - Harvard
-* Data Analytics com Power BI - DIO
+
 
 <h2> Cursos Concluídos </h2>
 
