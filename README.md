@@ -10,6 +10,8 @@
 
 * Networking basics - Cisco Skills For All
 
+* Introduction to linux - LFS101 
+
 <h2> Cursos Concluídos </h2>
 
 * Curso de Python 3 - Curso em Vídeo
